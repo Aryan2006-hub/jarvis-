@@ -1,0 +1,11 @@
+pyttsx3>=2.98
+SpeechRecognition>=3.14.0
+PyAudio>=0.2.14
+psutil>=7.0.0
+requests>=2.32.0
+python-dotenv>=1.1.0
+pyautogui>=0.9.54
+Pillow>=11.0.0
+screen-brightness-control>=0.24.2
+openai>=1.0.0
+ddgs>=9.0.0
